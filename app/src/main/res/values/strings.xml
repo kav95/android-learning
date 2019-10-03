@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Application</string>
+    <string name="put_to_sleep">Put to sleep</string>
+    <string name="check_internet">Check Internet</string>
+</resources>
